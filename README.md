@@ -1,6 +1,7 @@
 # testing
-
-alur login
-1. memasukkan email
-2. memasukkan password
-3. login
+informasi data mahasiswa
+--
+data yang terdaftar
+-angkatan 1934
+-angkatan 2039
+-angkatan 2923
